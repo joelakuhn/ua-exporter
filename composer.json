@@ -1,0 +1,12 @@
+{
+    "name": "jakuhn/gaapi",
+    "authors": [
+        {
+            "name": "Joel Kuhn",
+            "email": "joelakuhn@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}

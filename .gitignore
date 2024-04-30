@@ -1,0 +1,7 @@
+.DS_Store
+conf/*.json
+conf/*.txt
+vendor
+composer.lock
+notes.txt
+data
